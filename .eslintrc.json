@@ -21,6 +21,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "no-useless-return": 0
+        "no-useless-return": 0,
+        "@typescript-eslint/camelcase": ["error", { "allow": "icon_url" }]
     }
 }

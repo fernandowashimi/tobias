@@ -1,3 +1,3 @@
-import DiscordApp from './app'
+import DiscordApp from "./app";
 
-DiscordApp.start()
+DiscordApp.start();
